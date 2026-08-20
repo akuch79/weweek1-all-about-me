@@ -1,11 +1,15 @@
+# This program introduces some information about me.
+
 name = "Margaret"
 age = 25
 country = "South Sudan"
-hobbies = "learning new skills and helping others"
-interesting_fact = "I enjoy learning technology and using it to solve problems."
+hobbies = "Reading and learning new skills"
+favourite_language = "Python"
+goal = "Become a successful data analyst"
 
 print("My name is", name)
 print("I am", age, "years old")
-print("I am from", country)
+print("I live in", country)
 print("My hobbies are", hobbies)
-print("Interesting fact about me:", interesting_fact)
+print("My favourite programming language is", favourite_language)
+print("My goal is to", goal)
