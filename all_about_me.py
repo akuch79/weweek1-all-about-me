@@ -7,9 +7,9 @@ hobbies = "Reading and learning new skills"
 favourite_language = "Python"
 goal = "Become a successful data analyst"
 
-print("My name is", name)
-print("I am", age, "years old")
-print("I live in", country)
-print("My hobbies are", hobbies)
-print("My favourite programming language is", favourite_language)
-print("My goal is to", goal)
+print(f"My name is {name}")
+print(f"I am {age} years old")
+print(f"I live in {country}")
+print(f"My hobbies are {hobbies}")
+print(f"My favourite programming language is {favourite_language}")
+print(f"My goal is to {goal}")
